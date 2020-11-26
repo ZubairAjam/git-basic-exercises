@@ -1,0 +1,301 @@
+    1  /Volumes/Macintosh\ HD\ 1/Users/zubairajam/Documents/Vuze\ Downloads/Ableton\ Live\ Suite\ 9.7/ableton_live_9.x.x_smart_patch.command ; exit;
+    2  /Volumes/Macintosh\ HD\ 1/Users/zubairajam/Documents/Vuze\ Downloads/Ableton\ Live\ Suite\ 9.7/ableton_live_9.x.x_smart_patch.command ; exit;
+    3  /Users/zubairajam/Downloads/wine-5.0.1/configure ; exit;
+    4  /Users/zubairajam/Downloads/wine-5.0.1/configure ; exit;
+    5  test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+    6  test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+    7  mt5setup.exe
+    8  mt5setup.exe
+    9  test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+   10  test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Users/zubairajam/Applications/Wine Devel.app/Contents/Resources/start/bin:/Users/zubairajam/Applications/Wine Devel.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+   11  /Users/zubairajam/Downloads/mt5setup.exe 
+   12  wine mt5setup.exe
+   13  wine mt5setup.exe
+   14  /Applications/PlayOnMac.app/Contents/MacOS/python ; exit;
+   15  /Applications/PlayOnMac.app/Contents/MacOS/python ; exit;
+   16  /Applications/PlayOnMac.app/Contents/MacOS/python ; exit;
+   17  /Applications/PlayOnMac.app/Contents/Resources/playonlinux/bash/uninstall ; exit;
+   18  /Applications/PlayOnMac.app/Contents/Resources/unix/wine/bin/wine64-preloader ; exit;
+   19  /Volumes/Parallels\ Desktop\ 15.1.2.47123\ -\ Toolbox\ 3.7.0.2768\ by\ TNT/Install.app/Contents/MacOS/Install ; exit;
+   20  uninstall playonmac
+   21  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   22  mkdir Outer_directory
+   23  cd Outer_directory
+   24  mkdir Inner_directory
+   25  cd Inner_directory
+   26  ls
+   27  git
+   28  cd Documents
+   29  cd WebDev
+   30  git init
+   31  cd HelloWord
+   32  cd HelloGit
+   33  git init
+   34  git add *.c
+   35  git add LICENSE
+   36  git -m 'Initial project version'
+   37  git status
+   38  git add README
+   39  git add README.md
+   40  git status
+   41  cd /Documents/WebDev
+   42  cd Documents/WebDev/
+   43  cd GitTut
+   44  git init'
+   45   git init
+   46  cd Documents/WebDev/GitTut
+   47  git init
+   48  ls -a
+   49  git status
+   50  touch index.html
+   51  git status
+   52  git add index.html
+   53  git status
+   54  git commit -m "create index.html"
+   55  git status
+   56  git log
+   57  git add file.js
+   58  touch file.js
+   59  rm --file.js
+   60  -f
+   61  rm -f --file js
+   62  clear
+   63  git status
+   64  git add index.html file.js
+   65  git status
+   66  git commit -m "add app logic"
+   67  git log
+   68  cd WebDev
+   69  cd ..
+   70  git clone https://github.com/Umuzi-org/Zubair-Ajam-606-tilde-project-tutorial-how-repo-projects-work-
+   71  cd Zubair-Ajam-606-tilde-project-tutorial-how-repo-projects-work-
+   72  git status
+   73  branch
+   74  git branch
+   75  cd ..
+   76  cd HelloGit
+   77  git init
+   78  git diff
+   79  git status
+   80  cd ..
+   81  cd GitTut
+   82  git init
+   83  git diff
+   84  git status
+   85  git mv file.js Add.js
+   86  git status
+   87  git mv Add.js App.js
+   88  git status
+   89  git diff
+   90  git log
+   91  git log -p
+   92  git log --stat
+   93  git log --prettyt
+   94  git log --pretty
+   95  cd ..
+   96  cd https://github.com/ZubairAjam/git-basic-exercises.git
+   97  https://github.com/ZubairAjam/git-basic-exercises.git
+   98  touch git-basic-exercises
+   99  git status
+  100  clear
+  101  ls
+  102  mkdir git-basic-exercises
+  103  cd git-basic-exercises
+  104  ls -a
+  105  git init
+  106  ls -a
+  107  git status
+  108  touch README.md
+  109  ls -a
+  110  git status
+  111  git log
+  112  git add Readme.MD
+  113  git status
+  114  git add README.md 
+  115  git status
+  116  git commit -m "initial commit"
+  117  git log
+  118  q
+  119  q
+  120  quit
+  121  exit
+  122  cd Documents/WebDev/git-basic-exercises
+  123  git init
+  124  git log
+  125  q
+  126  nano README.md
+  127  cat README.md
+  128  git stats
+  129  git status
+  130  git commit -m "second commit"
+  131  git add README.md
+  132  git status
+  133  git commit -m "second commit"
+  134  git status
+  135  git log
+  136  nano README.md
+  137  git status
+  138  git add README.md
+  139  git status
+  140  git commit -m "third commit"
+  141  git log
+  142  q
+  143  clear
+  144  git checkout 40fc67cfb944f745798214702fe71c07b9ff9a9c
+  145  cat README.md
+  146  git checkout master
+  147  cat README.md
+  148  git branch
+  149  git branch milkshake-flavours
+  150  git branch
+  151  git branch milkshake-flavours
+  152  git checkout milkshake-flavours
+  153  git branch
+  154  nano milkshakes.md
+  155  git status
+  156  git add milkshake.md
+  157  git add milkshakes.md
+  158  git commit -m milkshakes.md
+  159  git commit milkshakes.md
+  160  git commit --amend
+  161  cd Documents/WebDev/git-basic-exercises
+  162  git init
+  163  git status
+  164  git log
+  165  git branch
+  166  git commit --amend -m "added initial flavours"
+  167  git log
+  168  git log
+  169  git checkout master
+  170  git log
+  171  git status
+  172  git branch history
+  173  git branch
+  174  git checkout history
+  175  git log
+  176  git branch
+  177  history>history.txt
+  178  git add history.txt
+  179  git status
+  180  git commit -m "added history"
+  181  git log
+  182  git branch
+  183  git checkout milkshake-flavours
+  184  git log
+  185  nano README.md
+  186  git status
+  187  git add README.md
+  188  git commit -m "random readme changes"
+  189  git log
+  190  git branch
+  191  git checkout history
+  192  cat README.md
+  193  git branch
+  194  rm README.md
+  195  echo "booya" > README.md
+  196  git status
+  197  git add README.md
+  198  git commit -m "rewrote readme"
+  199  git status
+  200  git log
+  201  git checkout master
+  202  git branch
+  203  ls
+  204  git log
+  205  git checkout milkshake-flavours
+  206  ls
+  207  git log
+  208  git checkout history
+  209  ls
+  210  git log
+  211  checkout milkshake
+  212  git checkout milkshake
+  213  git branch
+  214  git checkout master
+  215  git merge milkshake-flavours
+  216  ls
+  217  git log
+  218  git branch
+  219  git merge history
+  220  ls
+  221  git log
+  222  git checkout history
+  223  git master
+  224  git branch
+  225  git status
+  226  git add README.md
+  227  git status
+  228  git checkout history
+  229  git checkout milkshake-flavours
+  230  git branch
+  231  git log
+  232  git checkout master
+  233  git log
+  234  git status
+  235  git commit -md
+  236  git log
+  237  git status
+  238  git checkout history
+  239  git status
+  240  git log
+  241  git branch
+  242  git merge master
+  243  cd Documents/WebDev/
+  244  mkdir git-basic-exercises
+  245  cd git-basic-exercises
+  246  ls -a
+  247  git init
+  248  ls -a
+  249  git status
+  250  touch README.md
+  251  ls -a
+  252  git status
+  253  git log
+  254  git add README.md
+  255  git status
+  256  rm --cached README.md
+  257  git rm --cached README.md
+  258  git status
+  259  git add README.md
+  260  git status
+  261  git commit -m "initial commit"
+  262  git log
+  263  nano README.md
+  264  cat README.md
+  265  git status
+  266  git add README.md
+  267  git commit -m "second commit"
+  268  git log
+  269  nano README.md
+  270  git status
+  271  git add README.md
+  272  git status
+  273  git commit -m "third commit"
+  274  git log
+  275  git checkout 9db16969b6167cdea321e58721208d9afea76bff
+  276  cat README.md
+  277  git checkout master
+  278  cat README.md
+  279  clear
+  280  git branch
+  281  git branch milkshake-flavours
+  282  git branch
+  283  git branch milkshake-flavours
+  284  git milkshake-flavours
+  285  git checkout milkshake-flavours
+  286  nano milkshakes.md
+  287  git status
+  288  cat milkshakes.md
+  289  git add milkshakes.md
+  290  git status
+  291  git commit -m "added initial flavours"
+  292  git log
+  293  git checkout master
+  294  git log
+  295  git branch master
+  296  git branch history
+  297  git branch
+  298  git checkout history
+  299  git log
+  300  git branch
+  301  history>history.txt
